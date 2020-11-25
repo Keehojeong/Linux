@@ -1,0 +1,5 @@
+chmod
+vi
+find   -exec rm {} \;
+etc/crontab
+묶기(tar)
